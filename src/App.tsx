@@ -1,5 +1,5 @@
-import './App.css'
-import Game from './components/Game'
+import "./App.css";
+import Game from "./components/Game";
 
 // components: game, controls, board, player, enemies
 // enemies move down on tick
@@ -7,7 +7,7 @@ import Game from './components/Game'
 // space bar to fire
 
 function App() {
-  return <Game />
+  return <Game />;
 }
 
-export default App
+export default App;
